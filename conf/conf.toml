@@ -6,5 +6,5 @@ output = "/home/kutty/work/python/video-srt/data/output.mp4"
 [subtitle-conf]
 txt_color="white"
 fontsize=20
-font=""
+font="STSong"
 position=['center','bottom']
